@@ -10,7 +10,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 200px;
+    padding: 30px 250px;
 }
 
 .logo {
@@ -34,4 +34,42 @@ a {
 
 #header li {
     margin: 0 15px;
+}
+
+#section-one {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 250px;
+    height: 600px;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.hero-text p {
+    font-size: 18px;
+    color: #e5e7eb
+}
+
+.hero-text button {
+    background-color: #3882f6;
+    border: none;
+    padding: 8px 38px;
+    color: #e5e7eb;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.placeholder {
+    background-color: #6D747D;
+    font-size: 18px;
+    color: #e5e7eb;
+    padding: 130px 150px;
 }
