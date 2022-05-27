@@ -73,3 +73,62 @@ a {
     color: #e5e7eb;
     padding: 130px 150px;
 }
+
+#section-two {
+    height: 500px;
+}
+
+.info-header {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.ilustrations,
+.subtext {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 35px;
+}
+
+.ilustrations {
+    margin-top: 70px;
+    margin-bottom: 25px;
+}
+
+.subtext {
+    color: #85898b;
+}
+
+.ilustrations div {
+    padding: 70px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #5081ce;
+}
+
+#section-three {
+    background-color: #e5e7eb;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1f2937;
+}
+
+.author {
+    text-align: right;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
